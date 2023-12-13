@@ -59,6 +59,11 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <Slide slidesToShow={5} arrowsScroll={5}>
+        {cards.map((card) => (
+          <CatCard item={card} key={card.id} />
+        ))}
+      </Slide>
     </div>
   );
 };
