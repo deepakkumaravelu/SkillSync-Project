@@ -6,7 +6,7 @@ const Featured = () => {
       <div className="container">
         <div className="left">
           <h1>
-            Elevate Your Vision, I Create Your Mission: Freelance Excellence
+            Elevate Your Vision, I Create Your Mission: <i>Freelance</i> Excellence
             Unleashed!
           </h1>
           <div className="search">
