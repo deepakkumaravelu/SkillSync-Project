@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
 import React, { Children } from "react";
 import "./Slide.scss";
 import Slider from "infinite-react-carousel";
