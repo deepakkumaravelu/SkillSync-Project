@@ -5,7 +5,12 @@
    overflow: hidden;
    cursor: pointer;
    border: 1px solid rgb(225, 225, 225);
- 
+   transition: transform .5s;
+   &:hover {
+     -ms-transform: scale(1.03); 
+     -webkit-transform: scale(1.03); 
+     transform: scale(1.03); 
+   }
    img {
      width: 100%;
      height: 70%;
