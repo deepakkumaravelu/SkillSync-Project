@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "infinite-react-carousel": "^1.2.11",
+    "netlify-cli": "^17.10.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-lorem-ipsum": "^1.4.10",
