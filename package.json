@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "infinite-react-carousel": "^1.2.11",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
     "react-lorem-ipsum": "^1.4.10",
     "react-router-dom": "^6.20.1",
     "sass": "^1.69.5"
